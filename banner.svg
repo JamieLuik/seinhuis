@@ -2,11 +2,12 @@
   <!-- gemaakt door GitHub/maak_banner.py: witte kopbalk met titel, daaronder de gele band (zoals de webpagina) -->
   <rect width="1280" height="320" rx="16" fill="#ffffff"/>
   <path d="M0 236h1280v68a16 16 0 0 1-16 16H16A16 16 0 0 1 0 304z" fill="#ffc917"/>
-  <!-- icoon (Material Symbols "train", Apache 2.0) -->
-  <g transform="translate(72 64)">
-    <rect width="128" height="128" rx="28" fill="#ffc917"/>
-    <path transform="translate(12.8 115.2) scale(0.1067)" fill="#003082" d="M160-340v-380q0-53 27.5-84.5t72.5-48q45-16.5 102.5-22T480-880q66 0 124.5 5.5t102 22q43.5 16.5 68.5 48t25 84.5v380q0 59-40.5 99.5T660-200l60 60v20h-80l-80-80H400l-80 80h-80v-20l60-60q-59 0-99.5-40.5T160-340Zm320-460q-106 0-155 12.5T258-760h448q-15-17-64.5-28.5T480-800ZM240-560h200v-120H240v120Zm420 80H240h480-60Zm-140-80h200v-120H520v120ZM383-337q17-17 17-43t-17-43q-17-17-43-17t-43 17q-17 17-17 43t17 43q17 17 43 17t43-17Zm280 0q17-17 17-43t-17-43q-17-17-43-17t-43 17q-17 17-17 43t17 43q17 17 43 17t43-17Zm-363 57h360q26 0 43-17t17-43v-140H240v140q0 26 17 43t43 17Zm180-480h226-448 222Z"/>
-  </g>
+  <!-- icoon: het Seinhuis-applicatielogo (favicon.svg) -->
+  <svg x="72" y="64" width="128" height="128" viewBox="0 0 40 40"><rect width="40" height="40" rx="8" fill="#ffc917"/>
+<g fill="none" stroke="#003082" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M27.52 14.74A8 8 0 1 0 20 20A8 8 0 1 1 12.48 25.26"/>
+</g>
+<circle cx="20" cy="12" r="3" fill="#003082"/><circle cx="20" cy="28" r="3" fill="#003082"/></svg>
   <text x="232" y="138" font-size="72" font-weight="700" fill="#003082" letter-spacing="-1">Seinhuis</text>
   <text x="234" y="186" font-size="28" fill="#5d6670">Seinen opzoeken, oefenen, samenstellen en rijden</text>
   <g font-size="22" font-weight="700" fill="#003082">
